@@ -23,5 +23,12 @@
 <img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Linux" width="48px" src="https://img.icons8.com/color/48/000000/linux.png"/>
 
-## <br/>
+<br/>
 
+![Luis's github stats](https://github-readme-stats.vercel.app/api?username=Luiszicart&show_icons=true&theme=synthwave)
+
+<br/>
+
+### Connect with me:
+
+[Linkedin]: (https://www.linkedin.com/in/luis-andrés-zapata-icart-a005691b4)
