@@ -32,5 +32,6 @@
 ## <br/>
 
 ### Connect with me:
+[<img align="left" alt="Luiszicart | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 
-[Linkedin]: (https://www.linkedin.com/in/luis-andrés-zapata-icart-a005691b4)
+[linkedin]:https://www.linkedin.com/in/luis-andrés-zapata-icart-a005691b4
