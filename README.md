@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Developer, endurance athlete and halfway economist!
+### I'm a Developer, endurance athlete and halfway economist!
 
 - 🔭 I’m currently working at [Colinet Trotta](https://colinet.com.ar)
 - 🌱 I’m currently specializing in Web Development
