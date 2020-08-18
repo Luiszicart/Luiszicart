@@ -27,7 +27,8 @@
 
 ![Luis's github stats](https://github-readme-stats.vercel.app/api?username=Luiszicart&show_icons=true&theme=synthwave)
 
-<br/>
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> 
+## <br/>
 
 ### Connect with me:
 
