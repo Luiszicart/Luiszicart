@@ -2,7 +2,7 @@
 
 ### I'm a Developer, endurance athlete and halfway economist!
 
-- 🔭 I’m currently working at [Colinet Trotta](https://colinet.com.ar)
+- 🔭 I’m currently working at [WeDevelop](https://wedevelop.me/)
 - 🌱 I’m currently specializing in Web Development
 - ⚡ Fun fact: I'm an ultra trail runner and still can't get to the bus in time
 
