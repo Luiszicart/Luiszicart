@@ -22,11 +22,11 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Linux" width="30px" src="https://img.icons8.com/color/30/000000/linux.png"/>
 
-<br/>##<br/>
+<br/><br/>
 
 ![Luis's github stats](https://github-readme-stats.vercel.app/api?username=Luiszicart&show_icons=true&theme=synthwave)
 
-<br/>##<br/>
+<br/><br/>
 
 
 ### Connect with me:
