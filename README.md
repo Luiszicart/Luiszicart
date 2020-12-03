@@ -23,12 +23,11 @@
 <img align="left" alt="Linux" width="30px" src="https://img.icons8.com/color/30/000000/linux.png"/>
 
 <br/> <br/>
-## <br/>
 
 ![Luis's github stats](https://github-readme-stats.vercel.app/api?username=Luiszicart&show_icons=true&theme=synthwave)
 
 <br/> <br/>
-## <br/>
+
 
 ### Connect with me:
 [<img align="left" alt="Luiszicart | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
