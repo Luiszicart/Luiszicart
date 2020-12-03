@@ -11,11 +11,10 @@
 <img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" alt="React" width="30px" src="https://img.icons8.com/color/48/000000/react.png"/>
 <img align="left" alt="PYTHON" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" alt="JAVA" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" alt="Node.Js" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" alt="VUE.JS" width="30px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
