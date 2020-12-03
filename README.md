@@ -11,7 +11,7 @@
 <img align="left" alt="JavaScript" width="35px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="HTML5" width="35px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="left" alt="CSS3" width="35px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" alt="React" width="35px" src="https://img.icons8.com/office/16/000000/react.png"/>
+<img align="left" alt="React" width="30px" src="https://img.icons8.com/office/30/000000/react.png"/>
 <img align="left" alt="PYTHON" width="35px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="C" width="35px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" alt="Node.Js" width="35px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
