@@ -27,8 +27,6 @@
 ![Luis's github stats](https://github-readme-stats.vercel.app/api?username=Luiszicart&show_icons=true&theme=synthwave)
 
 <br/><br/>
-
-
 ### Connect with me:
 [<img align="left" alt="Luiszicart | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 
