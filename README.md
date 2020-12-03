@@ -28,5 +28,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Luiszicart | LinkedIn" width="30px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Luiszicart | WebPage" width="30px" src="https://img.icons8.com/fluent-systems-regular/24/000000/domain.png"/>][web]
 
 [linkedin]:https://www.linkedin.com/in/luis-andrés-zapata-icart-a005691b4
+[web]:https://portfolioluis.web.app/
