@@ -8,7 +8,7 @@
 
 ### Languajes and Tools
 
-<img align="left" alt="JavaScript" width="48px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="HTML5" width="48px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="left" alt="CSS3" width="48px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" alt="PYTHON" width="48px" src="https://img.icons8.com/color/48/000000/python.png"/>
