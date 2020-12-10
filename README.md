@@ -2,8 +2,6 @@
 
 ### I'm a Developer, endurance athlete and halfway economist!
 
-- 🔭 I’m currently working at [WeDevelop](https://wedevelop.me/)
-- 🌱 I’m currently specializing in Web Development
 - ⚡ Fun fact: I'm an ultra trail runner and still can't get to the bus in time
 
 ### Languajes and Tools
@@ -24,11 +22,11 @@
 
 <br/><br/>
 
-![Luis's github stats](https://github-readme-stats.vercel.app/api?username=Luiszicart&show_icons=true&theme=synthwave)
+![Luis's github stats](https://github-readme-stats.vercel.app/api?username=Luiszicart&show_icons=true&theme=tokyonight)
 
 ### Connect with me:
 [<img align="left" alt="Luiszicart | LinkedIn" width="30px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="Luiszicart | WebPage" width="30px" src="https://img.icons8.com/fluent-systems-regular/24/000000/domain.png"/>][web]
+[<img align="left" alt="Luiszicart | WebPage" width="30px" src="https://img.icons8.com/carbon-copy/30/000000/domain.png"/>][web]
 
 [linkedin]:https://www.linkedin.com/in/luis-andrés-zapata-icart-a005691b4
 [web]:https://portfolioluis.web.app/
