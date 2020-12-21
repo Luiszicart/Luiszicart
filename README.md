@@ -29,4 +29,4 @@
 [<img align="left" alt="Luiszicart | WebPage" width="30px" color="white" src="https://img.icons8.com/wired/30/ffffff/domain.png"/>][web]
 
 [linkedin]:https://www.linkedin.com/in/luis-andrés-zapata-icart-a005691b4
-[web]:https://portfolioluis.web.app/
+[web]:
