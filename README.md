@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi thre 👋
 
 ### I'm a Developer, endurance athlete and halfway economist!
 
