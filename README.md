@@ -2,7 +2,7 @@
 
 ### I'm a Developer, endurance athlete and halfway economist!
 
-- ⚡ Fun fact: I'm an ultra trail runner and still can't get to the bus in time
+- ⚡ Fun fact: I'm an ultra trail runner and still can't get to the bus in tim
 
 ### Languajes and Tools
 
