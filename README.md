@@ -4,7 +4,7 @@
 
 - ⚡ Fun fact: I'm an ultra trail runner and still can't get to the bus in time
 
-### Languajes and Tools
+### Languajes and Tool
 
 <img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/30/000000/javascript.png"/>
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/30/000000/html-5.png"/>
