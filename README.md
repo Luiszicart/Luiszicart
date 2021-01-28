@@ -7,6 +7,7 @@
 ### Languajes and Tools
 
 <img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/30/000000/javascript.png"/>
+<img align="left" alt="TypesScript" width="30px" src="https://img.icons8.com/color/30/000000/typescript.png"/>
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/30/000000/html-5.png"/>
 <img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/30/000000/css3.png"/>
 <img align="left" alt="React" width="30px" src="https://img.icons8.com/office/30/000000/react.png"/>
