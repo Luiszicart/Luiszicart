@@ -3,6 +3,7 @@
 ### I'm a Developer, endurance athlete and halfway economist
 
 - ⚡ Fun fact: I'm an ultra trail runner and still can't get to the bus in time!
+- :seedling: I am currently deepening my knowledge in React, Node and Testing.
 
 ### Languajes and Tools
 
