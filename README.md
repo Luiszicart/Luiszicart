@@ -3,7 +3,7 @@
 ### I'm a Developer, endurance athlete and halfway economist
 
 - ⚡ Fun fact: I'm an ultra trail runner and still can't get to the bus in time!
-- :seedling: I am currently deepening my knowledge in React, Node, Testing (Jest), GraphQL and Express.
+- :seedling: I'm currently deepening my knowledge in React, Node, Testing (Jest), GraphQL and Express.
 - :hammer: Goals for this year? Refine the web development path, polishing specific knowledge and learning about new technologies.
 - :computer: Area of interest? Fintech.
 - :construction_worker: Currently working in <a href="https://wedevelop.me/">WeDevelop</a>
