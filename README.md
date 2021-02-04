@@ -5,6 +5,8 @@
 - ⚡ Fun fact: I'm an ultra trail runner and still can't get to the bus in time!
 - :seedling: I am currently deepening my knowledge in React, Node and Testing.
 - :hammer: Goals for this year? Refine the web development path, polishing specific knowledge and learning about new technologies.
+- :computer: Area of interest? Fintech.
+- :construction_worker: Currently working in <a href="https://wedevelop.me/">WeDevelop</a>
 
 ### Languajes and Tools
 
