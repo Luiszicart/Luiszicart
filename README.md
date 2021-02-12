@@ -27,8 +27,6 @@
 
 <br/><br/>
 
-![Luis's github stats](https://github-readme-stats.vercel.app/api?username=Luiszicart&show_icons=true&theme=tokyonight)
-
 ### Connect with me:
 [<img align="left" alt="Luiszicart | LinkedIn" width="30px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="Luiszicart | WebPage" width="30px" color="white" src="https://img.icons8.com/wired/30/ffffff/domain.png"/>][web]
