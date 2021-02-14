@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a Developer, endurance athlete and halfway economist
+### I'm a Developer, endurance athlete and halfway econo
 
 - :seedling: I'm currently deepening my knowledge in React, Node, Testing (Jest), GraphQL and Express.
 - :hammer: Goals for this year? Refine the web development path, polishing specific knowledge and learning about new technologies.
