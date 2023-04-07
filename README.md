@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a Developer, endurance athlete and halfway economist
+### I'm a Developer, endurance athlete and economist
 
 - ⚡ Fun fact about me: I'm an ultra trail runner and still can't get to the bus in time!
 
